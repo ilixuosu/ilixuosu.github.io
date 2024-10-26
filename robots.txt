@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilixuosu.github.io/sitemap_index.ilixuosu
